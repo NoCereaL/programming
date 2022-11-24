@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="file://$USER_HOME$/OneDrive/Documents/Java Packages/plugins" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/OneDrive/Documents/Java Packages/plugins" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/OneDrive/Documents/Java Packages/plugins" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/OneDrive/Documents/Java Packages/plugins" recursive="false" type="SOURCES" />
+  </library>
+</component>
